@@ -30,7 +30,7 @@ I am an engineer specializing in **Internet of Things (IoT)** and a developer pa
 
 ### 📫 Get in Touch 
 - 📧 [Email](mailto:mohamedhedigharbi101@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-hedi-gharbi)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-hedi-gharbi-276aa6247/)  
 
 ---
 
