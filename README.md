@@ -38,3 +38,10 @@ I am an engineer specializing in **Internet of Things (IoT)** and a developer pa
 ⭐ If my projects inspire you, feel free to **star** my GitHub repositories!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Hedi-Gharbi&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Hedi-Gharbi&layout=compact)
+
+![Langage C](https://img.shields.io/badge/Code-C-blue)
+
+
+
