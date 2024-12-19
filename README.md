@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mohamed-Hedi-Gharbi
+<h1 align="center">👋 Hello, I'm Mohamed Hedi Gharbi</h1> 
 
 ## 🚀 About Me
 I am an engineer specializing in **Internet of Things (IoT)** and a developer passionate about:
