@@ -28,8 +28,7 @@ I am an engineer specializing in **Internet of Things (IoT)** and a developer pa
 2. **Farme Watcher**:  
    - Plant disease detection and proactive intervention in agriculture using IoT sensors and AI models.
 
-### 📫 Get in Touch
-- 🌐 [Professional Website](http://smartforgreen.com)  
+### 📫 Get in Touch 
 - 📧 [Email](mailto:mohamedhedigharbi101@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-hedi-gharbi)  
 
