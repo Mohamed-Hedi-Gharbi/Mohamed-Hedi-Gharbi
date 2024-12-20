@@ -25,8 +25,8 @@
   <a href="https://www.facebook.com/mohamedhedi.gharbi.79" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed Hedi Gharbi Facebook" height="30" width="40" />
   </a>
-  <a href="mailto:mohamedhedigharbi101@gmail.com">
-    <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="Gmail" width="40px"/>
+  <a href="mailto:mohamedhedigharbi101@gmail.com" target="_blank">
+    <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="Mohamed Hedi Gharbi Gmail" height="30" width="40"/>
   </a>
 </p>
 
