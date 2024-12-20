@@ -20,18 +20,18 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mohamed-hedi-gharbi-276aa6247/" target="_blank" aria-label="Mohamed Hedi Gharbi LinkedIn">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/mohamed-hedi-gharbi-276aa6247/" aria-label="Mohamed Hedi Gharbi LinkedIn">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="35px"/> 
   </a>
   
   <!-- Facebook -->
-  <a href="https://www.facebook.com/mohamedhedi.gharbi.79" target="_blank" aria-label="Mohamed Hedi Gharbi Facebook">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://www.facebook.com/mohamedhedi.gharbi.79"  aria-label="Mohamed Hedi Gharbi Facebook">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40px"/>
   </a>
   
   <!-- Gmail -->
-  <a href="mailto:mohamedhedigharbi101@gmail.com" target="_blank" aria-label="Mohamed Hedi Gharbi Gmail">
-    <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="Gmail" height="30" width="40" />
+  <a href="mailto:mohamedhedigharbi101@gmail.com" aria-label="Mohamed Hedi Gharbi Gmail">
+    <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="Gmail" width="40px"/>
   </a>
 </p>
 
