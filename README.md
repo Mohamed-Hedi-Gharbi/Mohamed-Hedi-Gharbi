@@ -5,23 +5,35 @@
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Hedi-Gharbi&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-Hedi-Gharbi" />
 </p>
 
-<p align="left"> 
+---
+
+### 🏆 GitHub Trophies
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Hedi-Gharbi" alt="Mohamed-Hedi-Gharbi" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Hedi-Gharbi&theme=onedark" alt="Mohamed-Hedi-Gharbi" />
   </a> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mohamed-hedi-gharbi-276aa6247/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Hedi Gharbi LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/mohamedhedi.gharbi.79" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed Hedi Gharbi Facebook" height="30" width="40" />
   </a>
+  <a href="mailto:mohamedhedigharbi101@gmail.com">
+    <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="Gmail" width="40px"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠️ Technologies & Tools
+
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -76,11 +88,18 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-hedi-gharbi&show_icons=true&locale=en&layout=compact" alt="mohamed-hedi-gharbi" />
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-hedi-gharbi&show_icons=true&theme=radical" alt="mohamed-hedi-gharbi's GitHub Stats"/>
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-hedi-gharbi&show_icons=true&locale=en" alt="mohamed-hedi-gharbi" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-hedi-gharbi&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
+---
+
+### ⭐️ From [Bouthaina](https://github.com/Mohamed-Hedi-Gharbi/)
