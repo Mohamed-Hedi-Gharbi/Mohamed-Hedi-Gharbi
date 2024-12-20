@@ -95,8 +95,10 @@
    <a href="https://www.redhat.com"  rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="40" height="40"/>
   </a>
-  <a href="https://ubuntu.com/"  rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+  <a href="https://ubuntu.com/" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" 
+         alt="ubuntu" width="40" height="40" 
+         style="filter: invert(34%) sepia(86%) saturate(745%) hue-rotate(356deg) brightness(95%) contrast(94%);"/>
   </a>
 </p>
 
